@@ -1,2 +1,2 @@
 # About-me
-Nguyen Truong Giang @truonggi001 @NTU
+Nguyen Truong Giang @truonggi001
